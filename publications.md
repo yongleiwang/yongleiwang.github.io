@@ -59,3 +59,11 @@ Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe fo
 1. **S. Y. Wang**, B. Neubig, K. Sato,     T. Hosoda, E. Seydel, J. H. Wu, T. F. Ma, J. Wang (2016). [Aging Models and Parameters of Quartz Crystal      Resonators and Oscillators](https://ieeexplore.ieee.org/document/7364512/), *Proceedings of the 2015 Symposium on Piezoelectricity, Acoustic Waves and Device Applications*, pp. 382-385. <a href="/assets/files/2015SPAWADA.pdf">pdf</a>
 
 
+
+## Book chapters
+
+
+1. Zhong-Yuan Lu, **Yong-Lei Wang**. [An Introduction to Dissipative Particle Dynamics](https://link.springer.com/protocol/10.1007/978-1-62703-017-5_24). *Methods in Molecular Biology: Biomolecular Simulations*, Eds: Luca Monticelli and Emppu Salonen. Chapter 24, 617--633 (2013).
+
+
+
