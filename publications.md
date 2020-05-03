@@ -59,13 +59,37 @@ Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe fo
 1. **S. Y. Wang**, B. Neubig, K. Sato,     T. Hosoda, E. Seydel, J. H. Wu, T. F. Ma, J. Wang (2016). [Aging Models and Parameters of Quartz Crystal      Resonators and Oscillators](https://ieeexplore.ieee.org/document/7364512/), *Proceedings of the 2015 Symposium on Piezoelectricity, Acoustic Waves and Device Applications*, pp. 382-385. <a href="/assets/files/2015SPAWADA.pdf">pdf</a>
 
 
+# **Yong-Lei Wang**. [](). **** **, xx (20xx).
+
+
+##2013
+3.
+
+
+
+
+
+
+
+
+
+##2011
+
+2. **Yong-Lei Wang**, Zhan-Wei Li, Hong Liu, Zhong-Yuan Lu. [Progress and Applications of Dissipative Particle Dynamics Simulation Method in Soft Matter](https://pip.nju.edu.cn/Views/Shared/Error.aspx?aspxerrorpath=/Home/DownloadPDF/731). **Prog. in Phys.** *31*, 1--21 (2011).
+
+
+
+##2010
+
+1. Yan-Dong He, **Yong-Lei Wang**, Zhong-Yuan Lu, Ze-Sheng Li. [Mesoscale Simulation for Polymer Migration in Confined Uniform Shear Flow](https://www.semanticscholar.org/paper/Mesoscale-Simulation-for-Polymer-Migration-in-Shear-He-Yan-dong/f2ce90d761403ffa163fd09085bcf9f7726411d9). **Chem. Res. Chin. Univ.** *26*, 122--137 (2010).
+
+
 
 ## Book chapters
-
 
 1. Zhong-Yuan Lu, **Yong-Lei Wang**. [An Introduction to Dissipative Particle Dynamics](https://link.springer.com/protocol/10.1007/978-1-62703-017-5_24). *Methods in Molecular Biology: Biomolecular Simulations*, Eds: Luca Monticelli and Emppu Salonen. Chapter **24**, 617--633 (2013).
 2. Francesca Mocci, Aatto Laaksonen, **Yong-Lei Wang**, Giuseppe Saba, Adolfo Lai, Flaminia Cesare Marincola. [Compchem and NMR Probing Ionic Liquids](https://link.springer.com/chapter/10.1007/978-3-319-01698-6_4). *Soft and Biological Matter: The Structure of Ionic Liquids*, Eds: Ruggero Caminiti and Lorenzo Gontrani. Chapter **4**, 97--126 (2014).
 3. Sten Sarman, **Yong-Lei Wang**, Aatto Laaksonen. [Variational Principle for Nonequilibrium Steady States Tested by Molecular Dynamics Simulation of Model Liquid Crystal Systems](https://www.intechopen.com/books/non-equilibrium-particle-dynamics/variational-principle-for-nonequilibrium-steady-states-tested-by-molecular-dynamics-simulation-of-mo). *Non-Equilibrium Particle Dynamics*, Eds: Albert S. Kim. Chapter **5**, DOI: 10.5772/intechopen.80977 (2018).
 4. **Yong-Lei Wang**, Sten Sarman, Mikhail Golets, Francesca Mocci, Zhong-Yuan Lu, Aatto Laaksonen. [Multigranular Modelling of Ionic Liquids](https://www.degruyter.com/view/book/9783110583632/10.1515/9783110583632-004.xml). *Ionic Liquids: Synthesis, Properties, Technologies and Applications*, Eds: Rasmus Fehrmann and Catherine Santini. Chapter **4**, 55--99 (2019).
-5. Zhong-Yuan Lu, **Yong-Lei Wang**. [Multiscale Simulation of Supramolecular Selfassembled Materials]. *Introduction to Supramolecular Materials*, Eds: Jiacong Shen, Wenke Zhang, and Junqi Sun. Chapter **1**, 1--30 (2019).
+5. Zhong-Yuan Lu, **Yong-Lei Wang**. [Multiscale Simulation of Supramolecular Self-Assembled Materials (in chinese)]. *Introduction to Supramolecular Materials*, Eds: Jiacong Shen, Wenke Zhang, and Junqi Sun. Chapter **1**, 1--30 (2019).
 
