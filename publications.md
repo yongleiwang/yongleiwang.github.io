@@ -59,11 +59,7 @@ Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe fo
 1. **S. Y. Wang**, B. Neubig, K. Sato,     T. Hosoda, E. Seydel, J. H. Wu, T. F. Ma, J. Wang (2016). [Aging Models and Parameters of Quartz Crystal      Resonators and Oscillators](https://ieeexplore.ieee.org/document/7364512/), *Proceedings of the 2015 Symposium on Piezoelectricity, Acoustic Waves and Device Applications*, pp. 382-385. <a href="/assets/files/2015SPAWADA.pdf">pdf</a>
 
 
-# **Yong-Lei Wang**. [](). **** **, xx (20xx).
-
-
-##2013
-3.
+# **Yong-Lei Wang**. [](). **** **,  (20xx).
 
 
 
@@ -71,15 +67,29 @@ Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe fo
 
 
 
+## 2013
+
+4. **Yong-Lei Wang**, Rochelle Lawrence, Zhong-Yuan Lu, Aatto Laaksonen. [Molecular Dynamics Study of Aqueous Solution of Polyethylene Oxide: Critical Test
+of Force Field Models](https://www.tandfonline.com/doi/abs/10.1080/1539445X.2012.669221). **Soft Mater.** *11*, 371--383 (2013).
+5. **Yong-Lei Wang**, Aatto Laaksonen, Zhong-Yuan Lu. [Implementation of Non-Uniform FFT Based Ewald Summation in Dissipative Particle Dynamics Method](https://www.sciencedirect.com/science/article/pii/S0021999112005542). **J. Comput. Phys.** *235*, x666--682x (2013).
+6. **Yong-Lei Wang**, Alexander Lyubartsev, Zhong-Yuan Lu, Aatto Laaksonen. [Multiscale Coarse-Grained Simulations of Ionic Liquids: Comparison of Three Approaches to Derive Effective Potentials](https://pubs.rsc.org/en/content/articlelanding/2013/cp/c3cp44108c). **Phys. Chem. Chem. Phys.** *15*, 7701--7712 (2013).
+7. **Yong-Lei Wang**, Aatto Laaksonen, Zhong-Yuan Lu. [Influence of Ionic Liquid Film Thickness on Ion Pair Distributions and Orientations at Graphene and Vacuum Interfaces](https://pubs.rsc.org/en/content/articlelanding/2013/CP/C3CP51226F). **Phys. Chem. Chem. Phys.** *15*, 13559--13569 (2013).
+8. Yan-Chun Li, **Yong-Lei Wang**, Zhan-Wei Li, Hong Liu, Zhong-Yuan Lu. [Towards Larger Spatiotemporal Scales in Polymer Simulations](https://link.springer.com/article/10.1007/s11434-013-5981-1). **Chin. Sci. Bulletin** *58*, 3595--3599 (2013).
 
 
-##2011
+
+## 2012
+3. **Yong-Lei Wang**, Zhong-Yuan Lu, Aatto Laaksonen. [Specific Binding Structures of Dendrimers on Lipid Bilayer Membranes](https://pubs.rsc.org/en/content/articlelanding/2012/cp/c2cp40700k). **Phys. Chem. Chem. Phys.** *14*, 8348--8359 (2012).
+
+
+
+## 2011
 
 2. **Yong-Lei Wang**, Zhan-Wei Li, Hong Liu, Zhong-Yuan Lu. [Progress and Applications of Dissipative Particle Dynamics Simulation Method in Soft Matter](https://pip.nju.edu.cn/Views/Shared/Error.aspx?aspxerrorpath=/Home/DownloadPDF/731). **Prog. in Phys.** *31*, 1--21 (2011).
 
 
 
-##2010
+## 2010
 
 1. Yan-Dong He, **Yong-Lei Wang**, Zhong-Yuan Lu, Ze-Sheng Li. [Mesoscale Simulation for Polymer Migration in Confined Uniform Shear Flow](https://www.semanticscholar.org/paper/Mesoscale-Simulation-for-Polymer-Migration-in-Shear-He-Yan-dong/f2ce90d761403ffa163fd09085bcf9f7726411d9). **Chem. Res. Chin. Univ.** *26*, 122--137 (2010).
 
