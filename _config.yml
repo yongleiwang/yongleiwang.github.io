@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+theme: jekyll-theme-architect
+>>>>>>> 9ba5caadd485415a0851aaa403f1e0dfd0fb90f9
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -7,8 +11,13 @@
 
 # Site settings
 title: I m Yonglei # ex. I m Chuan
+<<<<<<< HEAD
 name: Shaoyun Wang # ex. DONGChuan
 email: shaoyunwang@mail.missouri.edu
+=======
+name: Yonglei WANG # ex. DONGChuan
+email: wangyonl@gmail.com
+>>>>>>> 9ba5caadd485415a0851aaa403f1e0dfd0fb90f9
 location: Columbia, US # ex. Nice, France
 company: University of Missouri
 company_url: http://cmdl.missouri.edu
