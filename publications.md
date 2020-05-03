@@ -7,14 +7,14 @@ menu: publications
 
 ## Submitted manuscript
 
-1. Sheng-Chun Yang, Bin Li, You-Liang Zhu, Aatto Laaksonen, **Yong-Lei Wang**. [The ENUF Method -- Ewald Summation based on Non-Uniform Fast Fourier Transform: Implementation, Parallelization, and Application](https://arxiv.org/abs/2004.12484), arXiv:2004.12484 (2020).
+1. Sheng-Chun Yang, Bin Li, You-Liang Zhu, Aatto Laaksonen, **Yong-Lei Wang**. [The ENUF Method -- Ewald Summation based on Non-Uniform Fast Fourier Transform: Implementation, Parallelization, and Application](https://arxiv.org/abs/2004.12484). arXiv:2004.12484 (2020).
 2. Sheng-Chun Yang, **Yong-Lei Wang**. [A Hybrid MPI-CUDA Approach for Nonequispaced Discrete Fourier Transformation](https://arxiv.org/abs/2001.01583). arXiv, 2001.01583 (2020).
 
 ## 2020
-1. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. [Microstructural and Dynamical Heterogeneities in Ionic Liquids.](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00693) *Chem. Rev.* 120, xxx--xxx (2020).
+1. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. [Microstructural and Dynamical Heterogeneities in Ionic Liquids](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00693). *Chem. Rev.* 120, xxx--xxx (2020).
 2. Wenzhu Zhang, Xiuyan Xi, **Yong-Lei Wang**, Zhongbo Du, Chaolong Liu, Jianping
-Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe for Phosphorescence and Time-Gated Luminescence Detection of Bisulfite](https://pubs.rsc.org/en/content/articlelanding/2020/dt/c9dt04614c) Dalton Trans. DOI: 10.1039/C9DT04614C (2020).
-3. **Yong-Lei Wang**, Bin Li, Aatto Laaksonen, Jiayin Yuan. [The Effect of Phenyl Substitutions on Microstructures and Dynamics of Tetraalkylphosphonium Bis(trifluoromethylsulfonyl)imide Ionic Liquids](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201901206) ChemPhysChem, DOI:10.1002/cphc.201901206 (2020).
+Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe for Phosphorescence and Time-Gated Luminescence Detection of Bisulfite](https://pubs.rsc.org/en/content/articlelanding/2020/dt/c9dt04614c). *Dalton Trans.* DOI: 10.1039/C9DT04614C (2020).
+3. **Yong-Lei Wang**, Bin Li, Aatto Laaksonen, Jiayin Yuan. [The Effect of Phenyl Substitutions on Microstructures and Dynamics of Tetraalkylphosphonium Bis(trifluoromethylsulfonyl)imide Ionic Liquids](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201901206). *ChemPhysChem* DOI:10.1002/cphc.201901206 (2020).
 
 
 
