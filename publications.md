@@ -16,7 +16,7 @@ menu: publications
 51. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. [Microstructural and dynamical heterogeneities in ionic liquids](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00693). *Chem. Rev.* DOI:10.1021/acs.chemrev.9b00693 (2020).
 50. Wenzhu Zhang, Xiuyan Xi, **Yong-Lei Wang**, Zhongbo Du, Chaolong Liu, Jianping Liu, Bo Song, Jingli Yuan, Run Zhang. [Responsive Ruthenium complex probe for phosphorescence and time-gated luminescence detection of bisulfite](https://pubs.rsc.org/en/content/articlelanding/2020/dt/c9dt04614c). *Dalton Trans.* DOI:10.1039/C9DT04614C (2020).
 49. **Yong-Lei Wang**, Bin Li, Aatto Laaksonen, Jiayin Yuan. [The effect of phenyl substitutions on microstructures and dynamics of tetraalkylphosphonium bis(trifluoromethylsulfonyl)imide ionic liquids](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201901206). *ChemPhysChem* DOI:10.1002/cphc.201901206 (2020).
-48. Han-Wen Pei, Bin Li, Aatto Laaksonen, **Yong-Lei Wang**. [How Molecular Chiralities of Bis(mandelato)borate Anions Affect Their Binding Structures with Alkali Metal Ions and Microstructural Properties in Tetraalkylphosphonium Ionic Liquids](https://www.frontiersin.org/articles/10.3389/fchem.2020.00065/full). *Front. Chem.* **8**, 65 (2020).
+48. Han-Wen Pei, Bin Li, Aatto Laaksonen, **Yong-Lei Wang**. [How molecular chiralities of bis(mandelato)borate anions affect their binding structures with alkali metal ions and microstructural properties in tetraalkylphosphonium ionic liquids](https://www.frontiersin.org/articles/10.3389/fchem.2020.00065/full). *Front. Chem.* **8**, 65 (2020).
 
 
 
