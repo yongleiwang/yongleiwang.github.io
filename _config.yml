@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 theme: jekyll-theme-architect
->>>>>>> 9ba5caadd485415a0851aaa403f1e0dfd0fb90f9
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -11,26 +8,21 @@ theme: jekyll-theme-architect
 
 # Site settings
 title: I m Yonglei # ex. I m Chuan
-<<<<<<< HEAD
-name: Shaoyun Wang # ex. DONGChuan
-email: shaoyunwang@mail.missouri.edu
-=======
 name: Yonglei WANG # ex. DONGChuan
 email: wangyonl@gmail.com
->>>>>>> 9ba5caadd485415a0851aaa403f1e0dfd0fb90f9
-location: Columbia, US # ex. Nice, France
-company: University of Missouri
+location: Stockholm, Sweden # ex. Nice, France
+company: Stockholm University
 company_url: http://cmdl.missouri.edu
-github_url:  https://github.com/wangshaoyun # ex. https://github.com/DONGChuan
-github_username: wangshaoyun # ex. DONGChuan
-description: Shaoyun's website
+github_url:  https://github.com/yongleiwang # ex. https://github.com/DONGChuan
+github_username: yongleiwang # ex. DONGChuan
+description: Yonglei's website
 favicon: favicon.png # Image must be in assets/images
-repository: wangshaoyun/wangshaoyun.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: yongleiwang/yongleiwang.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: https://wangshaoyun.github.io ## https://wangshaoyun.github.io  ## http://localhost:4000
+url: https://yongleiwang.github.io ## https://wangshaoyun.github.io  ## http://localhost:4000
 
 ## Gem
 gems:
