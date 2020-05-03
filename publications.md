@@ -128,7 +128,7 @@ of Force Field Models](https://www.tandfonline.com/doi/abs/10.1080/1539445X.2012
 
 ## 2010
 
-1. Yan-Dong He, **Yong-Lei Wang**, Zhong-Yuan Lu, Ze-Sheng Li. [Mesoscale Simulation for Polymer Migration in Confined Uniform Shear Flow](https://www.semanticscholar.org/paper/Mesoscale-Simulation-for-Polymer-Migration-in-Shear-He-Yan-dong/f2ce90d761403ffa163fd09085bcf9f7726411d9). **Chem. Res. Chin. Univ.** *26*, 122--137 (2010).
+1. Yan-Dong He, **Yong-Lei Wang**, Zhong-Yuan Lu, Ze-Sheng Li. [Mesoscale Simulation for Polymer Migration in Confined Uniform Shear Flow](https://www.semanticscholar.org/paper/Mesoscale-Simulation-for-Polymer-Migration-in-Shear-He-Yan-dong/f2ce90d761403ffa163fd09085bcf9f7726411d9). **Chem. Res. Chin. Univ.** *26*, 122--137 (2010--**001**).
 
 
 
