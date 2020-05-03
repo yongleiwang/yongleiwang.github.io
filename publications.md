@@ -7,10 +7,9 @@ menu: publications
 
 ## 2020
 1. **S. Y. Wang**, C. H. Tong. [Cell-lists Method for Monte Carlo Simulation](https://arxiv.org/abs/2003.05581), arXiv:2003.05581. <a href="/assets/files/2003.05581.pdf">pdf</a>
-50. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. Microstructural and Dynamical Heterogeneities in Ionic Liquids. *Chemical Reviews* 120, xxx--xxx (2020).
+50. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. [Microstructural and Dynamical Heterogeneities in Ionic Liquids](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00693) *Chemical Reviews* 120, xxx--xxx (2020).
 2. T. B. Wang, **S. Y. Wang**, C. H. Tong. Charge Reversal of Polyelectrolyte Brushes Under a Collapsing Electric Field, submitted to *Chemical Physics* under review.
 3. **S. Y. Wang,** C. H. Tong (2020). [Surface Switching of Mixed Polyelectrolyte Brushes Made     of 4-arm Stars and Linear Chains: MD Simulations](https://aip.scitation.org/doi/10.1063/1.5130643), *Journal of Applied Physics*, 127, 074301. Editor's pick. <a href="/assets/files/2020JAP.pdf">pdf</a>
-4. Ji Wang, **Shaoyun Wang**, Longtao Xie, Yangyang Zhang, Lili Yuan, Jianke Du, Han Zhang (2020). [The axisymmetric Rayleigh waves in a semi-infinite elastic solid](http://dx.doi.org/10.1016/j.taml.2020.01.018), *Theoretical & Applied Mechanics Letters*, 10 (2020) 000-4. <a href="/assets/files/2020TAML.pdf">pdf</a>
 
 
 ## 2019
