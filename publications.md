@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; Shaoyun's Publications
+subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; Yonglei's Publications
 menu: publications
 ---
 
@@ -16,7 +16,7 @@ menu: publications
 ## 2019
 
 
-1. F. Zhang, **S. Y.** **Wang,** H. T. Ding, C. H. Tong (2019). [Simulations of 3-Arm Polyelectrolyte Star Brushes under External Electric Fields](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c8sm02131g#!divAbstract), *Soft Matter*, 15, 2560-2570. (Back cover). <a href="/assets/files/2019Soft_Matter.pdf">pdf</a>
+1. Fxxx. Zhang, **S. Y.** **Wang,** H. T. Ding, C. H. Tong (2019). [Simulations of 3-Arm Polyelectrolyte Star Brushes under External Electric Fields](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c8sm02131g#!divAbstract), *Soft Matter*, 15, 2560-2570. (Back cover). <a href="/assets/files/2019Soft_Matter.pdf">pdf</a>
 
 2. **S. Y. Wang,** L. T. Xie, L. M. Zhang,     R. X. Wu, J. K. Du, J. Wang (2019). [Novel Cuts of Triply-Rotated Quartz Crystal for Resonators With      Ideal Cubic Frequency-Temperature Relations](https://ieeexplore.ieee.org/document/8681866). *Proceedings     of the 2019 Symposium on Piezoelectricity, Acoustic Waves and Device     Applications*, Paper     number: 18584340. <a href="/assets/files/2019SPWADA.pdf">pdf</a>
 
