@@ -22,7 +22,7 @@ repository: yongleiwang/yongleiwang.github.io # ex. DONGChuan/DONGChuan.github.i
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: https://yongleiwang.github.io ## https://wangshaoyun.github.io  ## http://localhost:4000
+url: https://yongleiwang.github.io ##  http://localhost:4000
 
 ## Gem
 gems:

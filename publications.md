@@ -5,6 +5,10 @@ subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; Yonglei's 
 menu: publications
 ---
 
+## Submitted manuscript
+
+1. **S. Y. Wang**, C. H. Tong. [Cell-lists Method for Monte Carlo Simulation](https://arxiv.org/abs/2003.05581), arXiv:2003.05581.
+
 ## 2020
 1. **S. Y. Wang**, C. H. Tong. [Cell-lists Method for Monte Carlo Simulation](https://arxiv.org/abs/2003.05581), arXiv:2003.05581.
 50. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. [Microstructural and Dynamical Heterogeneities in Ionic Liquids.](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00693) *Chem. Rev.* 120, xxx--xxx (2020).
@@ -39,6 +43,6 @@ menu: publications
 
 ## 2015
 
-1. **S. Y. Wang**, B. Neubig, K. Sato,     T. Hosoda, E. Seydel, J. H. Wu, T. F. Ma, J. Wang (2016). [Aging Models and Parameters of Quartz Crystal      Resonators and Oscillators](https://ieeexplore.ieee.org/document/7364512/), *Proceedings of the 2015 Symposium on     Piezoelectricity, Acoustic Waves and Device Applications*, pp. 382-385. <a href="/assets/files/2015SPAWADA.pdf">pdf</a>
+1. **S. Y. Wang**, B. Neubig, K. Sato,     T. Hosoda, E. Seydel, J. H. Wu, T. F. Ma, J. Wang (2016). [Aging Models and Parameters of Quartz Crystal      Resonators and Oscillators](https://ieeexplore.ieee.org/document/7364512/), *Proceedings of the 2015 Symposium on Piezoelectricity, Acoustic Waves and Device Applications*, pp. 382-385. <a href="/assets/files/2015SPAWADA.pdf">pdf</a>
 
 
