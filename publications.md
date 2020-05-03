@@ -67,14 +67,47 @@ Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe fo
 
 
 
+## 2015
+
+13. **Yong-Lei Wang**, Sten Sarman, Sergei Glavatskih, Oleg Antzutkin, Mark Rutland, Aatto Laaksonen. [Atomistic Insight into Tetraalkylphosphonium-Bis(oxalato)borate Ionic Liquid/Water Mixtures. I. Local Microscopic Structure](https://pubs.acs.org/doi/10.1021/acs.jpcb.5b00667). **J. Phys. Chem. B** *119*, 5251--5264 (2015).
+
+14. Sten Sarman, **Yong-Lei Wang**, Aatto Laaksonen. [Non-Newtonian Rheological Properties of Shearing Nematic Liquid Crystal Model Systems Based on the Gay–Berne Potential](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp02468d). **Phys. Chem. Chem. Phys.** *17*, 16615--16623 (2015).
+
+15. **Yong-Lei Wang**, Sten Sarman, Bin Li, Aatto Laaksonen. [Multiscale Modeling of the Trihexyltetradecylphosphonium Chloride Ionic Liquid](https://pubs.rsc.org/ko/content/articlelanding/2015/cp/c5cp02586a). **Phys. Chem. Chem. Phys.** *17*, 22125--22135 (2015).
+
+
+
+
+
+## 2014
+
+9. **Yong-Lei Wang**, Fredrik Hedman, Massimiliano Porcu, Francesca Mocci, Aatto Laaksonen. [Non-Uniform FFT and Its Applications in Particle Simulations](https://m.scirp.org/papers/42807). **Applied Mathematics** *5*, 520--541 (2014).
+
+10. **Yong-Lei Wang**, Faiz Ullah Shah, Sergei Glavatskih, Oleg Antzutkin, Aatto
+Laaksonen. [Atomistic Insight into Orthoborate-Based Ionic Liquids: Force Field Development and Evaluation](https://pubs.acs.org/doi/10.1021/jp503029d). **J. Phys. Chem. B** *118*, 8711--8723 (2014).
+
+11. **Yong-Lei Wang**, Zhong-Yuan Lu, Aatto Laaksonen. [Heterogeneous Dynamics of Ionic Liquids in Confined Films with Varied Film Thickness](https://pubs.rsc.org/en/content/articlelanding/2014/CP/c4cp02843k). **Phys. Chem. Chem. Phys.** *16*, 20731--20740 (2014).
+
+12. **Yong-Lei Wang**, Aatto Laaksonen. [Interfacial Structure and Orientation of Confined Ionic Liquids on Charged Quartz Surfaces](https://pubs.rsc.org/en/Content/ArticleLanding/CP/2014/C4CP03077J). **Phys. Chem. Chem. Phys.** *16*, 23329--23339 (2014).
+
+
+
+
+
 ## 2013
 
 4. **Yong-Lei Wang**, Rochelle Lawrence, Zhong-Yuan Lu, Aatto Laaksonen. [Molecular Dynamics Study of Aqueous Solution of Polyethylene Oxide: Critical Test
 of Force Field Models](https://www.tandfonline.com/doi/abs/10.1080/1539445X.2012.669221). **Soft Mater.** *11*, 371--383 (2013).
+
 5. **Yong-Lei Wang**, Aatto Laaksonen, Zhong-Yuan Lu. [Implementation of Non-Uniform FFT Based Ewald Summation in Dissipative Particle Dynamics Method](https://www.sciencedirect.com/science/article/pii/S0021999112005542). **J. Comput. Phys.** *235*, x666--682x (2013).
+
 6. **Yong-Lei Wang**, Alexander Lyubartsev, Zhong-Yuan Lu, Aatto Laaksonen. [Multiscale Coarse-Grained Simulations of Ionic Liquids: Comparison of Three Approaches to Derive Effective Potentials](https://pubs.rsc.org/en/content/articlelanding/2013/cp/c3cp44108c). **Phys. Chem. Chem. Phys.** *15*, 7701--7712 (2013).
+
 7. **Yong-Lei Wang**, Aatto Laaksonen, Zhong-Yuan Lu. [Influence of Ionic Liquid Film Thickness on Ion Pair Distributions and Orientations at Graphene and Vacuum Interfaces](https://pubs.rsc.org/en/content/articlelanding/2013/CP/C3CP51226F). **Phys. Chem. Chem. Phys.** *15*, 13559--13569 (2013).
+
 8. Yan-Chun Li, **Yong-Lei Wang**, Zhan-Wei Li, Hong Liu, Zhong-Yuan Lu. [Towards Larger Spatiotemporal Scales in Polymer Simulations](https://link.springer.com/article/10.1007/s11434-013-5981-1). **Chin. Sci. Bulletin** *58*, 3595--3599 (2013).
+
+
 
 
 
@@ -83,9 +116,13 @@ of Force Field Models](https://www.tandfonline.com/doi/abs/10.1080/1539445X.2012
 
 
 
+
+
 ## 2011
 
 2. **Yong-Lei Wang**, Zhan-Wei Li, Hong Liu, Zhong-Yuan Lu. [Progress and Applications of Dissipative Particle Dynamics Simulation Method in Soft Matter](https://pip.nju.edu.cn/Views/Shared/Error.aspx?aspxerrorpath=/Home/DownloadPDF/731). **Prog. in Phys.** *31*, 1--21 (2011).
+
+
 
 
 
@@ -99,7 +136,7 @@ of Force Field Models](https://www.tandfonline.com/doi/abs/10.1080/1539445X.2012
 
 ## Book chapters
 
-1. Zhong-Yuan Lu, **Yong-Lei Wang**. [Multiscale Simulation of Supramolecular Self-Assembled Materials (in chinese)]. *Introduction to Supramolecular Materials*, Eds: Jiacong Shen, Wenke Zhang, and Junqi Sun. Chapter **1**, 1--30 (2019).
+1. Zhong-Yuan Lu, **Yong-Lei Wang**. [Multiscale Simulation of Supramolecular Self-Assembled Materials (in chinese)](). *Introduction to Supramolecular Materials*, Eds: Jiacong Shen, Wenke Zhang, and Junqi Sun. Chapter **1**, 1--30 (2019).
 
 2. **Yong-Lei Wang**, Sten Sarman, Mikhail Golets, Francesca Mocci, Zhong-Yuan Lu, Aatto Laaksonen. [Multigranular Modelling of Ionic Liquids](https://www.degruyter.com/view/book/9783110583632/10.1515/9783110583632-004.xml). *Ionic Liquids: Synthesis, Properties, Technologies and Applications*, Eds: Rasmus Fehrmann and Catherine Santini. Chapter **4**, 55--99 (2019).
 
