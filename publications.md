@@ -7,16 +7,15 @@ menu: publications
 
 ## Submitted manuscript
 
-1. Sheng-Chun Yang, Bin Li, You-Liang Zhu, Aatto Laaksonen, **Yong-Lei Wang**. [The ENUF Method -- Ewald Summation based on Non-Uniform Fast Fourier Transform: Implementation, Parallelization, and Application](https://arxiv.org/abs/2004.12484). arXiv:2004.12484 (2020).
-2. Sheng-Chun Yang, **Yong-Lei Wang**. [A Hybrid MPI-CUDA Approach for Nonequispaced Discrete Fourier Transformation](https://arxiv.org/abs/2001.01583). arXiv:2001.01583 (2020).
+1. Sheng-Chun Yang, Bin Li, You-Liang Zhu, Aatto Laaksonen, **Yong-Lei Wang**. [The ENUF method -- Ewald summation based on non-uniform fast Fourier transform: Implementation, parallelization, and application](https://arxiv.org/abs/2004.12484). arXiv:2004.12484 (2020).
+2. Sheng-Chun Yang, **Yong-Lei Wang**. [A hybrid MPI-CUDA approach for nonequispaced discrete Fourier transformation](https://arxiv.org/abs/2001.01583). arXiv:2001.01583 (2020).
 
 
 ## 2020
 
-51. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. [Microstructural and Dynamical Heterogeneities in Ionic Liquids](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00693). *Chem. Rev.* DOI:10.1021/acs.chemrev.9b00693 (2020).
-50. Wenzhu Zhang, Xiuyan Xi, **Yong-Lei Wang**, Zhongbo Du, Chaolong Liu, Jianping
-Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe for Phosphorescence and Time-Gated Luminescence Detection of Bisulfite](https://pubs.rsc.org/en/content/articlelanding/2020/dt/c9dt04614c). *Dalton Trans.* DOI:10.1039/C9DT04614C (2020).
-49. **Yong-Lei Wang**, Bin Li, Aatto Laaksonen, Jiayin Yuan. [The Effect of Phenyl Substitutions on Microstructures and Dynamics of Tetraalkylphosphonium Bis(trifluoromethylsulfonyl)imide Ionic Liquids](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201901206). *ChemPhysChem* DOI:10.1002/cphc.201901206 (2020).
+51. **Yong-Lei Wang**, Bin Li, Sten Sarman, Francesca Mocci, Zhong-Yuan Lu, Jiayin Yuan, Aatto Laaksonen, Michael D. Fayer. [Microstructural and dynamical heterogeneities in ionic liquids](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.9b00693). *Chem. Rev.* DOI:10.1021/acs.chemrev.9b00693 (2020).
+50. Wenzhu Zhang, Xiuyan Xi, **Yong-Lei Wang**, Zhongbo Du, Chaolong Liu, Jianping Liu, Bo Song, Jingli Yuan, Run Zhang. [Responsive Ruthenium complex probe for phosphorescence and time-gated luminescence detection of bisulfite](https://pubs.rsc.org/en/content/articlelanding/2020/dt/c9dt04614c). *Dalton Trans.* DOI:10.1039/C9DT04614C (2020).
+49. **Yong-Lei Wang**, Bin Li, Aatto Laaksonen, Jiayin Yuan. [The effect of phenyl substitutions on microstructures and dynamics of tetraalkylphosphonium bis(trifluoromethylsulfonyl)imide ionic liquids](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201901206). *ChemPhysChem* DOI:10.1002/cphc.201901206 (2020).
 48. Han-Wen Pei, Bin Li, Aatto Laaksonen, **Yong-Lei Wang**. [How Molecular Chiralities of Bis(mandelato)borate Anions Affect Their Binding Structures with Alkali Metal Ions and Microstructural Properties in Tetraalkylphosphonium Ionic Liquids](https://www.frontiersin.org/articles/10.3389/fchem.2020.00065/full). *Front. Chem.* **8**, 65 (2020).
 
 
@@ -25,8 +24,7 @@ Liu, Bo Song, Jingli Yuan, and Run Zhang. [Responsive Ruthenium Complex Probe fo
 
 ## 2019
 
-47. Nicklas Hjalmarsson, Erik Bergendal, **Yong-Lei Wang**, Bulat Munavirov, Daniel Wallinder, Sergei Glavatskih, Teodor Aastrup, Rob Atkin, István Furó, Mark
-Rutland. [Electro-responsive surface composition and kinetics of an ionic liquid in a polar oil](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b02119). **Langmuir** *35*, 15692--15700 (2019). 
+47. Nicklas Hjalmarsson, Erik Bergendal, **Yong-Lei Wang**, Bulat Munavirov, Daniel Wallinder, Sergei Glavatskih, Teodor Aastrup, Rob Atkin, István Furó, Mark Rutland. [Electro-responsive surface composition and kinetics of an ionic liquid in a polar oil](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.9b02119). **Langmuir** *35*, 15692--15700 (2019). 
 
 46. Weiyi Zhang, Shen Wei, Yongneng Wu, **Yong-Lei Wang**, Miao Zhang, Dipankar Roy, Hong Wang, Jiayin Yuan, Qiang Zhao. [Poly(ionic liquid)-derived nanoporous graphitic carbon membrane enables superior supercapacitive energy storage](https://pubs.acs.org/doi/abs/10.1021/acsnano.9b03514). **ACS Nano** *13*, 10261--10271 (2019).
 
@@ -36,7 +34,7 @@ Rutland. [Electro-responsive surface composition and kinetics of an ionic liquid
 
 43. Jae Yoon Shin, **Yong-Lei Wang**, Steven A. Yamada, Samantha T. Hung, Michael D. Fayer. [Imidazole and 1-methylimidazole hydrogen bonding and nonhydrogen bonding liquid dynamics: Ultrafast IR experiments](https://pubs.acs.org/doi/10.1021/acs.jpcb.8b11299). **J. Phys. Chem. B** *123*, 2094--2105 (2019).
 
-42. Zhongbo Du, Run Zhang, Bo Song, Wenzhu Zhang, **Yong-Lei Wang**, Chaolong Liu, Zhiping Xu, Jingli Yuan. [Iridium(iii) complex-based activatable probe for phosphorescent/time-gated luminescent sensing and imaging of cysteine in mitochondria of live cells and animals](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201805079). **Chem. Eur. J.** *25*, 1498--1506 (2019).
+42. Zhongbo Du, Run Zhang, Bo Song, Wenzhu Zhang, **Yong-Lei Wang**, Chaolong Liu, Zhiping Xu, Jingli Yuan. [Iridium(III) complex-based activatable probe for phosphorescent/time-gated luminescent sensing and imaging of cysteine in mitochondria of live cells and animals](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201805079). **Chem. Eur. J.** *25*, 1498--1506 (2019).
 
 41. Qian Han, Jianping Liu, Qingtao Meng, **Yong-Lei Wang**, Huan Feng, Zhiping Zhang, Zhiping Xu, Run Zhang. [Turn-on fluorescence probe for nitric oxide detection and bioimaging in live cells and zebrafish](https://pubs.acs.org/doi/10.1021/acssensors.8b00776). **ACS Sens.** *4*, 309--316 (2019) (**Selected as front cover of ACS Sens.**).
 
@@ -74,7 +72,7 @@ Rutland. [Electro-responsive surface composition and kinetics of an ionic liquid
 
 30. Sten Sarman, **Yong-Lei Wang**, Aatto Laaksonen. [Minimal energy dissipation rate and director orientation relative to external dissipative fields such as temperature and velocity gradients in nematic and cholestric liquid crystals](http://cmst.eu/articles/minimal-energy-dissipation-rate-and-director-orientation-relative-to-external-dissipative-fields-such-as-temperature-and-velocity-gradients-in-nematic-and-cholestric-liquid-crystals/). **Comput. Methods Sci. Technol.** *23*, 239--250 (2017).
 
-29. Heather E Bailey, **Yong-Lei Wang**, and Michael D. Fayer. [Impact of hydrogen bonding on the dynamics and structure of protic ionic liquid/water binary mixtures](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.7b06376). **J. Phys. Chem. B** *121*, 8564--8576 (2017).
+29. Heather E Bailey, **Yong-Lei Wang**, Michael D. Fayer. [Impact of hydrogen bonding on the dynamics and structure of protic ionic liquid/water binary mixtures](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.7b06376). **J. Phys. Chem. B** *121*, 8564--8576 (2017).
 
 28. Sheng-Chun Yang, Zhong-Yuan Lu, Hu-Jun Qian, **Yong-Lei Wang**, Jie-Ping Han. [A hybrid parallel architecture for electrostatic interactions in the simulation of dissipative particle dynamics](https://www.sciencedirect.com/science/article/pii/S0010465517302126). **Comput. Phys. Commun.** *220*, 376--389 (2017).
 
@@ -84,7 +82,7 @@ Rutland. [Electro-responsive surface composition and kinetics of an ionic liquid
 
 25. **Yong-Lei Wang**, Mikhail Golets, Bin Li, Sten Sarman, Aatto Laaksonen. [Interfacial structures of trihexyltetradecylphosphonium-bis(mandelato)borate ionic liquid confined between gold electrodes](https://pubs.acs.org/doi/10.1021/acsami.6b14429). **ACS Appl. Mater. Interfaces** *9*, 4976--4987 (2017).
 
-24. Wenzhu Zhang, Feiyue Zhang, **Yong-Lei Wang**, Bo Song, Run Zhang, and Jingli Yuan. [Red-emitting Ruthenium(II) and Iridium(III) complexes as phosphorescent probes for methylglyoxal *in vitro* and *in vivo*](https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b02443). **Inorg. Chem.** *56*, 1309--1318 (2017).
+24. Wenzhu Zhang, Feiyue Zhang, **Yong-Lei Wang**, Bo Song, Run Zhang, Jingli Yuan. [Red-emitting Ruthenium(II) and Iridium(III) complexes as phosphorescent probes for methylglyoxal *in vitro* and *in vivo*](https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.6b02443). **Inorg. Chem.** *56*, 1309--1318 (2017).
 
 23. Feiyue Zhang, Xiaowen Liang, Wenzhu Zhang, **Yong-Lei Wang**, Haolu Wang, Yousuf H. Mohammed, Bo Song, Run Zhang, Jingli Yuan. [A unique Iridium(III) complex-based chemosensor for multi-signal detection and multi-channel imaging of hypochlorous acid in liver injury](https://www.sciencedirect.com/science/article/pii/S0956566316309538?via%3Dihub). **Biosens. Bioelectron.** *87*, 1005--1011 (2017).
 
