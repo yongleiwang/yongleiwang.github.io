@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
 
 # Site settings
-title: I'm Yonglei
+title: Welcome to Yonglei's Research Group in # I'm Yonglei
 name: Yonglei WANG
 email: wangyonl@gmail.com
 location: Stockholm, Sweden
@@ -10,12 +10,10 @@ company_url: https://www.su.se/english/profiles/yonwa-1.187344
 github_url: https://github.com/yongleiwang
 github_username: yongleiwang
 description: Yonglei's website
-favicon: softmatter.jpg # Image must be in assets/images
-repository: yongleiwang/yongleiwang.github.io # ex. DONGChuan/DONGChuan.github.io
+favicon: favicon.png # Image must be in assets/images
+repository: yongleiwang/yongleiwang.github.io
 
-# The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
-# For production, use your github page url. ex. http://dongchuan.github.io
 url: https://yongleiwang.github.io ##  http://localhost:4000
 
 ## Gem
@@ -61,8 +59,8 @@ navs:
     label: Open-Source
 
   -
-    href: /blog
-    label: Blog
+    href: /members
+    label: Members
 
   -
     href: /publications
@@ -72,8 +70,9 @@ navs:
     href: /about
     label: About
 
+
 # Sidebar to show popular repo
-side_bar_repo_limit: 5 # Number of repos to show
+side_bar_repo_limit: 7 # Number of repos to show
 
 # Google Analytics
 analytics :
