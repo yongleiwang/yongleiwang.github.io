@@ -1,22 +1,16 @@
 theme: jekyll-theme-architect
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I m Yongleii # ex. I m Chuan
-name: Yonglei WANG # ex. DONGChuan
+title: I'm Yonglei
+name: Yonglei WANG
 email: wangyonl@gmail.com
-location: Stockholm, Sweden # ex. Nice, France
+location: Stockholm, Sweden
 company: Stockholm University
 company_url: https://www.su.se/english/profiles/yonwa-1.187344
-github_url:  https://github.com/yongleiwang # ex. https://github.com/DONGChuan
-github_username: yongleiwang # ex. DONGChuan
+github_url: https://github.com/yongleiwang
+github_username: yongleiwang
 description: Yonglei's website
-favicon: favicon.png # Image must be in assets/images
+favicon: softmatter.jpg # Image must be in assets/images
 repository: yongleiwang/yongleiwang.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
