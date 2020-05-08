@@ -1,5 +1,5 @@
 /*
-	Arcana by HTML5 UP
+	Dopetrope by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -11,12 +11,10 @@
 
 	// Breakpoints.
 		breakpoints({
-			wide:      [ '1281px',  '1680px' ],
-			normal:    [ '981px',   '1280px' ],
-			narrow:    [ '841px',   '980px'  ],
-			narrower:  [ '737px',   '840px'  ],
-			mobile:    [ '481px',   '736px'  ],
-			mobilep:   [ null,      '480px'  ]
+			xlarge:  [ '1281px',  '1680px' ],
+			large:   [ '981px',   '1280px' ],
+			medium:  [ '737px',   '980px'  ],
+			small:   [ null,      '736px'  ]
 		});
 
 	// Play initial animations on page load.
@@ -28,18 +26,17 @@
 
 	// Dropdowns.
 		$('#nav > ul').dropotron({
-			offsetY: -15,
-			hoverDelay: 0,
+			mode: 'fade',
+			noOpenerFade: true,
 			alignment: 'center'
 		});
 
 	// Nav.
 
-		// Bar.
+		// Title Bar.
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
