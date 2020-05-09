@@ -1667,6 +1667,9 @@ input, select, textarea {
 				background: #151112;
 			}
 
+
+
+
 		input[type="button"].dgreen,
 		input[type="submit"].dgreen,
 		input[type="reset"].dgreen,
@@ -1674,9 +1677,37 @@ input, select, textarea {
 		.button.dgreen {
 			background: #008000 ;
 		}
+		input[type="button"].dpurple,
+		input[type="submit"].dpurple,
+		input[type="reset"].dpurple,
+		button.dpurple,
+		.button.dpurple {
+			background: #a300ff ;
+		}
 
+		input[type="button"].dcyan,
+		input[type="submit"].dcyan,
+		input[type="reset"].dcyan,
+		button.dcyan,
+		.button.dcyan {
+			background: #00847d ;
+		}
 
+		input[type="button"].dpink,
+		input[type="submit"].dpink,
+		input[type="reset"].dpink,
+		button.dpink,
+		.button.dpink {
+			background: #d9534f ;
+		}
 
+		input[type="button"].dorange,
+		input[type="submit"].dorange,
+		input[type="reset"].dorange,
+		button.dorange,
+		.button.dorange {
+			background: #ffa500 ;
+		}		
 
 
 
