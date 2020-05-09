@@ -1712,7 +1712,7 @@ input, select, textarea {
 		input[type="reset"].light001,
 		button.light001,
 		.button.light001 {
-			background: #552852 ;
+			background: #4c4baf ;
 		}
 		input[type="button"].light002,
 		input[type="submit"].light002,
@@ -1726,7 +1726,7 @@ input, select, textarea {
 		input[type="reset"].light003,
 		button.light003,
 		.button.light003 {
-			background: #4c4baf ;
+			background: #552852 ;
 		}
 		input[type="button"].light004,
 		input[type="submit"].light004,
