@@ -1684,7 +1684,6 @@ input, select, textarea {
 		.button.dpurple {
 			background: #a300ff ;
 		}
-
 		input[type="button"].dcyan,
 		input[type="submit"].dcyan,
 		input[type="reset"].dcyan,
@@ -1692,7 +1691,6 @@ input, select, textarea {
 		.button.dcyan {
 			background: #00847d ;
 		}
-
 		input[type="button"].dpink,
 		input[type="submit"].dpink,
 		input[type="reset"].dpink,
@@ -1700,7 +1698,6 @@ input, select, textarea {
 		.button.dpink {
 			background: #d9534f ;
 		}
-
 		input[type="button"].dorange,
 		input[type="submit"].dorange,
 		input[type="reset"].dorange,
@@ -1708,6 +1705,39 @@ input, select, textarea {
 		.button.dorange {
 			background: #ffa500 ;
 		}		
+
+
+		input[type="button"].light001,
+		input[type="submit"].light001,
+		input[type="reset"].light001,
+		button.light001,
+		.button.light001 {
+			background: #c8a3ff ;
+		}
+		input[type="button"].light002,
+		input[type="submit"].light002,
+		input[type="reset"].light002,
+		button.light002,
+		.button.light002 {
+			background: #daffa3 ;
+		}
+		input[type="button"].light003,
+		input[type="submit"].light003,
+		input[type="reset"].light003,
+		button.light003,
+		.button.light003 {
+			background: #c0ffee ;
+		}
+		input[type="button"].light004,
+		input[type="submit"].light004,
+		input[type="reset"].light004,
+		button.light004,
+		.button.light004 {
+			background: #e3d3b9 ;
+		}
+
+
+
 
 
 
