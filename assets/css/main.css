@@ -1667,6 +1667,28 @@ input, select, textarea {
 				background: #151112;
 			}
 
+
+		input[type="button"].dgreen,
+		input[type="submit"].dgreen,
+		input[type="reset"].dgreen,
+		button.dgreen,
+		.button.dgreen {
+			background: #008000 ;
+		}
+			input[type="button"].dgreen:active,
+			input[type="submit"].dgreen:active,
+			input[type="reset"].dgreen:active,
+			button.dgreen:active,
+			.button.dgreen:active {
+				background: #008000 ;
+			}
+
+
+
+
+
+
+
 		input[type="button"].icon:before,
 		input[type="submit"].icon:before,
 		input[type="reset"].icon:before,
