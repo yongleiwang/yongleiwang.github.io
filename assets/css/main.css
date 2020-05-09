@@ -1712,28 +1712,28 @@ input, select, textarea {
 		input[type="reset"].light001,
 		button.light001,
 		.button.light001 {
-			background: #c8a3ff ;
+			background: #552852 ;
 		}
 		input[type="button"].light002,
 		input[type="submit"].light002,
 		input[type="reset"].light002,
 		button.light002,
 		.button.light002 {
-			background: #daffa3 ;
+			background: #0c3b29 ;
 		}
 		input[type="button"].light003,
 		input[type="submit"].light003,
 		input[type="reset"].light003,
 		button.light003,
 		.button.light003 {
-			background: #c0ffee ;
+			background: #4c4baf ;
 		}
 		input[type="button"].light004,
 		input[type="submit"].light004,
 		input[type="reset"].light004,
 		button.light004,
 		.button.light004 {
-			background: #e3d3b9 ;
+			background: #003366 ;
 		}
 
 
